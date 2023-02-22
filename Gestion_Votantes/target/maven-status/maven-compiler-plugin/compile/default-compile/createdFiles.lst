@@ -1,0 +1,9 @@
+acceso\IVotacionRepository.class
+dominio\servicio\Servicio.class
+test\Principal.class
+dominio\Lugar_Votacion.class
+vista\Menu.class
+acceso\VotacionRepository.class
+dominio\Votante.class
+dominio\Mesa_Votacion.class
+acceso\Factory.class
